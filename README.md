@@ -1,2 +1,3 @@
-# eater-mod-1.21
-Minecraft mod where you can eat mod souls
+***Eater Mod***
+
+(Referenced Modding By Kaupenjoe, some images made using DALL-E)

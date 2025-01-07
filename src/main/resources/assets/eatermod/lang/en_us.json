@@ -1,0 +1,38 @@
+{
+  "item.eatermod.soul_gemstone": "Soul Gemstone",
+  "item.eatermod.raw_soul_gemstone": "Soul Stone",
+  "item.eatermod.soul_amulet": "Soul Amulet",
+
+  "item.eatermod.cow_soul": "Cow",
+  "item.eatermod.chicken_soul": "Chicken",
+  "item.eatermod.spider_soul": "Spider",
+  "item.eatermod.skeleton_soul": "Skeleton",
+  "item.eatermod.golem_soul": "Iron Golem",
+  "item.eatermod.ender_soul": "Enderman",
+  "item.eatermod.blaze_soul": "Blaze",
+
+  "itemgroup.eatermod.eat_stuff_items": "Eat Stuff",
+
+  "block.eatermod.soul_gemstone_ore": "Soul Stone Ore",
+  "block.eatermod.soul_gemstone_deepslate_ore": "Soul Stone Deepslate Ore",
+
+  "tooltip.eatermod.soul_amulet.shift_down": "Right click a mob to obtain a part of their soul",
+  "tooltip.eatermod.soul_amulet.shift_down1": "§1The imbued diamonds are used to heal the soul of the mobs§r",
+  "tooltip.eatermod.soul_amulet": "An amulet imbued with the powers of the soul",
+  "tooltip.eatermod.soul_amulet1": "Hold §eShift§r for more info",
+
+  "tooltip.eatermod.cow_soul.tooltip": "A part of the soul of a cow",
+  "tooltip.eatermod.chicken_soul.tooltip": "A part of the soul of a chicken",
+  "tooltip.eatermod.spider_soul.tooltip": "A part of the soul of a spider",
+  "tooltip.eatermod.skeleton_soul.tooltip": "A part of the soul of a skeleton",
+  "tooltip.eatermod.golem_soul.tooltip": "A part of the soul of an iron golem",
+  "tooltip.eatermod.ender_soul.tooltip": "A part of the soul of an enderman",
+  "tooltip.eatermod.blaze_soul.tooltip": "A part of the soul of an blaze",
+
+  "effect.eatermod.eggy": "Eggy",
+  "effect.eatermod.webby": "Webby",
+  "effect.eatermod.spidey": "Spidey",
+  "effect.eatermod.shootey": "Shootey",
+  "effect.eatermod.endy": "Endy",
+  "effect.eatermod.firey": "Firey"
+}

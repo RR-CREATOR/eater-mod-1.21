@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "eatermod",
+	"version": "${version}",
+	"name": "Eater Mod",
+	"description": "A mod that allows you to eat unique things.",
+	"authors": [
+		"rrop"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/eatermod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.rrop.eatermod.EaterMod"
+		],
+		"fabric-datagen": [
+			"com.rrop.eatermod.EaterModDataGenerator"
+		],
+		"client": [
+			"com.rrop.eatermod.EaterModClient"
+		]
+	},
+	"mixins": [
+		"eatermod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

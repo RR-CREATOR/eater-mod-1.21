@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "eatermod:block/soul_gemstone_deepslate_ore"
+  }
+}
