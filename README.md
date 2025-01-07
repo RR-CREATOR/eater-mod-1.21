@@ -20,3 +20,6 @@ Mod where you can eat mob souls to gain certain cool and op effects
 
 collect soul stone by mining custom ore(iron pick needed at minimum), craft soul gemstone, using it craft soul amulet
 right click mob with soul amulet to get a part of their soul
+
+
+The mod file and dependency file is in the mods folder. To try the mod, just place the files in your .minecraft mods folder and load up fabric 1.21. Works for other launchers as well
