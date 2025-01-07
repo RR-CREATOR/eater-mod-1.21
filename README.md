@@ -18,5 +18,5 @@ Mod where you can eat mob souls to gain certain cool and op effects
     
 7. Blaze - you get fir res for 1 min and can throw fireballs where you are looking by holding shift for 5s
 
-collect soul stone by mining custom ore, craft soul gemstone, using it craft soul amulet
+collect soul stone by mining custom ore(iron pick needed at minimum), craft soul gemstone, using it craft soul amulet
 right click mob with soul amulet to get a part of their soul
